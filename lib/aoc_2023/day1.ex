@@ -1,4 +1,4 @@
-defmodule Day1 do
+defmodule Aoc2023.Day1 do
   @input ~S"""
   9dlvndqbddghpxc
   rtkrbtthree8sixfoureight6
